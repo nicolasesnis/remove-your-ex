@@ -3,7 +3,6 @@ from brushing.canvas import show_canvas
 import os 
 from PIL import Image
 import shutil
-
 import subprocess
 
 st.set_page_config(page_title='Remove Your Ex', 
